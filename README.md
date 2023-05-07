@@ -1,16 +1,19 @@
-# FakeBooter
-A fake DDoS Booter inspired by https://github.com/Sayrix/fake-booter writen in Python
-
+# Fake Hacking Tools
+A fake hacking program written in Python
+Features:
+Ip booter
+Password Cracker
+More to come.
 
 ## How to install
 ```
-Git clone https://github.com/ThermalMango/FakeBooter
-cd FakeBooter
+Git clone https://github.com/ThermalMango/Fake-Hacking-Tools
+cd Scripts
 pip install -r req.txt
 ```
 
 ## How to run
-In /FakeBooter
+In /Scripts
 ```
-python fBooter.py
+python fakeHT.py
 ```
